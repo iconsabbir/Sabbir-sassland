@@ -1,0 +1,271 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    height: auto;
+    display: block;
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+}   
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.sassland-header{
+    background-color: #7F56F5;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.sassland-navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 0 300px;
+    
+}
+
+.logo {
+    width: 10%;
+    margin-left: 100px;
+    
+}
+.navbar{
+    width: 80%;
+    
+}
+.navbar ul{
+    display: flex;
+    justify-content: flex-end;
+    
+   
+}
+.navbar ul li{}
+.navbar ul li a{
+    padding: 0 20px;
+    text-transform: capitalize;
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+}
+.OurPrograce-section{
+    position: absolute;
+    text-align: center;
+    padding: 400px 550px 10px;
+    
+    
+    
+}
+.OurPrograce-section h1{
+    font-size: 70px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.OurPrograce-section p{
+    font-size:26px ;
+    color: #fff;
+}
+
+
+/*Header section end*/
+
+.hero-section{ 
+    
+   
+}
+.container{
+   
+}
+.felex-section{
+    display: flex;
+    padding: 80px 0;
+    justify-content: center;
+    margin-left: 10px;
+    position: relative;
+    
+    
+    
+
+}
+.middle-section{
+ 
+    
+}
+.middle-section img{
+    width: 5%;
+    margin-bottom: 25px;
+}
+.middle-section h3{
+        font-size: 40px;
+        width:700px;
+        margin-bottom: 20px;
+}
+.middle-section p{
+    width: 550px;
+    font-size: 20px;
+   
+}
+.hello-pc{
+    width: 35%;
+    
+    
+    
+}
+.flex-section-2{
+    width: 20%;
+   position: absolute;
+   margin: 480px 900px 0 0;
+}
+
+
+.right-section{
+    position: absolute;
+    margin: 500px 0 0 770px;
+}
+.right-section img{
+    width: 10%;
+    margin: 0 200px 18px 0;
+
+}
+.right-section h3{
+        font-size: 40px;
+        width: 500px;
+        margin-bottom: 20px;
+}
+.right-section p{
+    width: 520px;
+    font-size: 20px;
+}
+.left-section{
+    position: absolute;
+    margin:  950px 0 0 700px;
+}
+.left-section img{
+    width: 90%;
+    margin-left: 50px;
+}
+.section-3{
+    position: absolute;
+    margin: 990px 700px 0 0;
+}
+.section-3 img{
+    width: 8%;
+    margin-bottom: 15px;
+}
+.section-3 h3{
+    font-size: 40px;
+    width: 600px;
+    margin-bottom: 15px;
+
+}
+
+
+.section-3 p{
+    width: 520px;
+    font-size: 20px;
+}
+.process-4{
+    width: 25%;
+    position: absolute;
+    margin:1440px 850px 0 0;
+}
+.section-4{
+    position: absolute;
+    margin: 1440px 0 0 740px;
+    
+}
+
+
+.section-4 img{
+    width: 8%;
+    margin-bottom: 15px;
+}
+.section-4 h3{
+    font-size: 40px;
+    width: 500px;
+    margin-bottom: 15px;
+}
+.section-4 p{
+    width: 520px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.section-4 button{
+    padding: 15px 25px;
+    margin-bottom: 10px;
+    background-color: #7F56F5;
+    border-radius: 10px;
+    border-color: #7F56F5;
+
+}
+
+.section-4 button a{
+    color: #fff;
+    text-transform:uppercase;
+    font-weight: 700;
+    
+
+}
+.section-4 button:hover{
+    background-color: red;
+    transition: 0.8s;
+    
+}
+.section-5{
+    position: absolute;
+    margin: 1960px  725px 0 0;
+}
+.section-5 img{
+    width: 7%;
+    margin-bottom: 20px;
+}
+.section-5 h3{
+    font-size: 40px;
+    width: 600px;
+}
+.section-5 p{
+    width: 520px;
+    font-size: 20px;
+    margin-top: 15px;
+}
+.process-5{
+    width: 20%;
+    position: absolute;
+    margin: 1950px 0 0 600px;
+    padding: 0 0 80px 0;
+}
+
+/* hero end*/
+.contacts{
+    background-color: #7e56f53f;
+    position: relative;
+}
+.mango{
+    display: flex;
+}
+
+.apple{
+  
+  margin: 2000px 0 0 200px;
+  margin-bottom: 100px;
+
+}
+.apple img{
+    width: 10%;
+}
+.apple p{ 
+    width: 300px;
+}
+
+
+
+
